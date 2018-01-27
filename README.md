@@ -7,3 +7,6 @@ Goal of project:
 Result:
 - Predicted user sentiments (positive, negative or neutral) on 6 German car brands. 
 - Analyzed tweets with streaming technology in HDFS and PySpark.
+
+Note: 
+- Open json file using Zeppelin notebook
